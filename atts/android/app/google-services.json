@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095961130552",
+    "project_id": "backend-atts",
+    "storage_bucket": "backend-atts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095961130552:android:e37aa9022b08019dba18cd",
+        "android_client_info": {
+          "package_name": "com.example.atts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgl5l3knuPg_trZzs4LGzGJAbIzln1Xgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
